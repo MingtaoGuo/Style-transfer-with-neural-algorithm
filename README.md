@@ -12,6 +12,6 @@ We can see the image above that is from the paper, it shows a simple way to synt
 Result
 -----------
 
-![content0](https://github.com/MingtaoGuo/Style-transfer-with-neural-algorithm/raw/master/images/content0.jpg)
-![style0](https://github.com/MingtaoGuo/Style-transfer-with-neural-algorithm/raw/master/images/style0.jpg)
-![target0](https://github.com/MingtaoGuo/Style-transfer-with-neural-algorithm/raw/master/images/target0.jpg)
+![content0](https://github.com/MingtaoGuo/Style-transfer-with-neural-algorithm/raw/master/images/result.jpg)
+
+This result's parameter: alpha 1e-5, beta 1.0, width 512, height 512, optimizer: L-BFGS, iteration of L-BFGS 500, the result of Adam is not very well.
