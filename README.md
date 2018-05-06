@@ -8,3 +8,10 @@ Method
 ![algorithm](https://github.com/MingtaoGuo/Style-transfer-with-neural-algorithm/raw/master/method/method.jpg)
 
 We can see the image above that is from the paper, it shows a simple way to synthesize an image from other style.In this method, x is the variable which we want to update, and it is also an synthesized image as the final result. The squared error is used to control the content which makes the synthesized image is similar to the original content image, and the Gram matrix is used to control the style which makes the synthesized image has the similar style with original style image.
+
+Result
+-----------
+
+![content0](https://github.com/MingtaoGuo/Style-transfer-with-neural-algorithm/raw/master/images/content0.jpg)
+![style0](https://github.com/MingtaoGuo/Style-transfer-with-neural-algorithm/raw/master/images/style0.jpg)
+![target0](https://github.com/MingtaoGuo/Style-transfer-with-neural-algorithm/raw/master/images/target0.jpg)
