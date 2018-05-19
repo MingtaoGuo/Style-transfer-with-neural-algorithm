@@ -9,7 +9,7 @@ Firstly, you need these package of python: tensorflow, numpy, scipy, pillow
 
 just use these commands: pip install tensorflow, pip install numpy, pip install scipy, pip install pillow
 
-Secondly, you need the pre-trained model of vgg-19, you can download the model from this [address](https://pan.baidu.com/s/11buvuHsUG1tQKYQm2VG4Og), whose model had removed the fully connected layer to reduce parameters.After you download the model, you should put it in this folder named "vgg_para".
+Secondly, you need the pre-trained model of vgg-19, you can download the model from this [address](https://pan.baidu.com/s/1CO-A2GOoym7eCw0hQsvEyw), whose model had removed the fully connected layer to reduce parameters.After you download the model, you should put it in this folder named "vgg_para".
 
 Method
 -------
